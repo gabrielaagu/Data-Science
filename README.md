@@ -6,9 +6,13 @@ In this repository, I'm sharing my journey in learning data science at college. 
 
 ## Technologies Used
 Python
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Web Scraping
 
 ## To get started with exploring these projects, follow these steps:
