@@ -1,7 +1,7 @@
 # Data Science Projects Repository
 Welcome to my data science projects repository! Here you'll find a collection of my current homework assignments, where I'm applying what I've learned about Python, Pandas, NumPy, Matplotlib, and web scraping.
 
-# Introduction
+## Introduction
 In this repository, I'm sharing my journey in learning data science at college. From understanding the fundamentals of Python to exploring powerful libraries like Pandas, NumPy, and Matplotlib, I'm delving into the world of data analysis and visualization. Additionally, I'm honing my skills in web scraping to gather data from various online sources for analysis.
 
 ## Technologies Used
