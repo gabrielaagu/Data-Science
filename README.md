@@ -14,10 +14,14 @@ Web Scraping
 ## To get started with exploring these projects, follow these steps:
 
 Clone this repository to your local machine using git clone https://github.com/gabrielaagu/Data-Science.git.
+
 Navigate to the project directory.
+
 Install the necessary dependencies by running pip install -r requirements.txt.
+
 Explore each project folder to view the source code and accompanying documentation.
-Usage
+
+## Usage
 Feel free to use these projects as a reference for your own learning or to gain insights into how to apply Python, Pandas, NumPy, Matplotlib, and web scraping techniques in data science projects.
 
 ## Contributing
