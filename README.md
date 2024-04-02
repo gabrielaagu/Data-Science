@@ -1,2 +1,2 @@
 # Data-Science
-Data science personal projects
+Academic projects as a Data Science Student.
